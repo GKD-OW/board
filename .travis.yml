@@ -21,8 +21,18 @@ install:
   - yarn install --frozen-lockfile
 
 script:
-  - bash ./ci.sh
+  - yarn run build
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  keep_history: false
+  fqdn: announcement.owmod.net
+  local_dir: $TRAVIS_BUILD_DIR/dist
+  on:
+    branch: master
 
 env:
   global:
-    - secure: Kx6k6ak4lOYC+us3NsbwwlBf6nqO9O0Nz+xkxfutH+FUzBL5ZULD5VlCiE9FVNNSPKrsZEkHsmplDfFMU1KjKJiTX3pXaeNmvMMxjCeKBvlHOHgA9rAVS/TqlBS8XLTCV4R5j6anhFY7BCXma5i1yr6uzU6PEFMv2aOz/obdGFIa6rc82klYk71vFuqQnCN28AnGtFn4MXzhHmWH9oV35Yq3nIx9D4SWB0VhGADW2nqaQN+EsQojTYruK6RQu/UmPqxEae0nuLoH2Xj1qaduxd/IBewe2RBg85IBIWXIAjKNaSB2wt5HRcZp9Ot1VIIRpQVPXbOe2VEHAoSPsw7+xabJnl9p1G+vQ/wwWS/+d62vEUbSTfoTlyrZm9OwMuAQM+ah3Jg1MTf2JbhlYOOuIS3lCqcsLtqAgSm0ay7pan4fiTtKmd5EOpOQxcdcqlG3rwK/ovqrblhxkoLuMWdQp5AvJKMVEHumqspaBb0Ub58OUtTE0gqroPTP5zBnRe00nDzLaPNGKuYS1aQYzkI1lBt9WEL3RiT5aITecpnffvZnc4x/BuxMGFlCpA8ddZXV0rLR6eypqU1s60XxawOAsK7XY5CY6yy3IqSlX0GJcMe98hr1QuQ3rFYmuaQ9F53hvl5yxGqv+XUPjZ9xF8FTUOcXMmbtEFmfSxTaEKP1mn4=
+    - secure: OCCR+7PRKT/vaQHQ8qcpPa0cWbLVTpFqNA/G7/15cqaR1FikFvytz0jk8xwZn09sKgYTmqC7DSObONDUITgr/eLQa1g+pAZU4VEVw8AZuRNL/wh/LYzPK8ciWLXKg179hFep/QNvnWr9EFGRHRWLqaMwUvqIhPD5KdmL2IlayTMOknENib6j3JLMLtzZs4ntBZi9fsaIbUO0sRjaU8zQEYHTDHLnep9sF3IkDHbQzk80l7U7heiNwx8J5XpAX0NAT2KTCx/4Zx9QXGYwxk/Ccbn1AQ1v8TlyVgFG4+WYn5LJ0kYPZcNDZ+jT1wxu6q8Y4yISSTV1xiIM9KzyPa9+7/blA/vdtBPm7DhmeXHos9CrCD5N3OYgTGpgxvN+33ectw59GlbBFlSVhBKg9oiilSoFjF1+hys50169HbHspbpS6MtqPoy2+PWLeBVmXEFjlf+mOkUJH0Wt5G6PUEwQ4TAFBJCTjaz1npky4P5YMuHzVkWkFY8P7+SroHVpr01CduWejy44+XV+EHu/lJlsq2s6NW5jllOxuvzIC4QLtWKXq4cQ7kX01Ei69AFt1jRXtI1LUPrdOhK0dPEXJtu9rrOfEQ191gR7sQ+iSDwl8E+LhzsxSJDlgKu4jmC9jai1GT2SmfSRQ+1c83I0oPCACi5NR+Guu68KkFG8/KUF2yo=
