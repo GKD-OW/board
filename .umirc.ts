@@ -4,7 +4,7 @@ export default defineConfig({
   title: '公告',
   favicon: 'https://www.owmod.net/favicon.ico',
   logo: 'https://img.alicdn.com/tfs/TB1RCBLoz39YK4jSZPcXXXrUFXa-853-954.png',
-  outputPath: 'docs-dist',
+  outputPath: 'dist',
   externals: {
     react: 'window.React',
     'react-dom': 'window.ReactDOM',
