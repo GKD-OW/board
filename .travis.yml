@@ -1,0 +1,28 @@
+language: node_js
+node_js:
+  - 'node'
+
+notifications:
+  email: false
+
+cache:
+  yarn: true
+
+before_cache:
+  - rm -rf ./node_modules/.cache
+
+before_install:
+  - export TZ="Asia/Shanghai"
+  - date
+
+install:
+  - curl -o- -L https://yarnpkg.com/install.sh | bash
+  - export PATH="$HOME/.yarn/bin:$PATH"
+  - yarn install --frozen-lockfile
+
+script:
+  - bash ./ci.sh
+
+env:
+  global:
+    - secure: Kx6k6ak4lOYC+us3NsbwwlBf6nqO9O0Nz+xkxfutH+FUzBL5ZULD5VlCiE9FVNNSPKrsZEkHsmplDfFMU1KjKJiTX3pXaeNmvMMxjCeKBvlHOHgA9rAVS/TqlBS8XLTCV4R5j6anhFY7BCXma5i1yr6uzU6PEFMv2aOz/obdGFIa6rc82klYk71vFuqQnCN28AnGtFn4MXzhHmWH9oV35Yq3nIx9D4SWB0VhGADW2nqaQN+EsQojTYruK6RQu/UmPqxEae0nuLoH2Xj1qaduxd/IBewe2RBg85IBIWXIAjKNaSB2wt5HRcZp9Ot1VIIRpQVPXbOe2VEHAoSPsw7+xabJnl9p1G+vQ/wwWS/+d62vEUbSTfoTlyrZm9OwMuAQM+ah3Jg1MTf2JbhlYOOuIS3lCqcsLtqAgSm0ay7pan4fiTtKmd5EOpOQxcdcqlG3rwK/ovqrblhxkoLuMWdQp5AvJKMVEHumqspaBb0Ub58OUtTE0gqroPTP5zBnRe00nDzLaPNGKuYS1aQYzkI1lBt9WEL3RiT5aITecpnffvZnc4x/BuxMGFlCpA8ddZXV0rLR6eypqU1s60XxawOAsK7XY5CY6yy3IqSlX0GJcMe98hr1QuQ3rFYmuaQ9F53hvl5yxGqv+XUPjZ9xF8FTUOcXMmbtEFmfSxTaEKP1mn4=
