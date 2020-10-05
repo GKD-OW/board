@@ -8,7 +8,6 @@ export default defineConfig({
   history: {
     type: 'hash'
   },
-  dynamicImport: true,
   externals: {
     react: 'window.React',
     'react-dom': 'window.ReactDOM',
