@@ -5,6 +5,10 @@ export default defineConfig({
   favicon: 'https://www.owmod.net/favicon.ico',
   logo: 'https://img.alicdn.com/tfs/TB1RCBLoz39YK4jSZPcXXXrUFXa-853-954.png',
   outputPath: 'dist',
+  history: {
+    type: 'hash'
+  },
+  dynamicImport: true,
   externals: {
     react: 'window.React',
     'react-dom': 'window.ReactDOM',
