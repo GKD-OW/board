@@ -36,7 +36,21 @@ export default defineConfig({
             src: 'https://g.alicdn.com/code/lib/qrcodejs/1.0.0/qrcode.min.js',
           },
         },
+        {
+          tag: 'script',
+          head: true,
+          append: false,
+          attrs: {
+            src: 'https://g.alicdn.com/code/lib/??react/18.3.1/umd/react.production.min.js,react-dom/18.3.1/umd/react-dom.production.min.js',
+          },
+        },
       ]
+    },
+    output: {
+      externals: {
+        react: 'window.React',
+        'react-dom': 'window.ReactDOM',
+      }
     }
   },
   plugins: [
