@@ -1,6 +1,11 @@
 import React, { FunctionComponent, useEffect, useRef } from 'react';
-import QRCode from 'qrcode';
 import './qr.css';
+
+declare global {
+  interface Window {
+    QRCode: any;
+  }
+}
 
 interface QRProps {
   url: string;
@@ -11,12 +16,16 @@ interface QRProps {
 
 const QR: FunctionComponent<QRProps> = props => {
   const { url, size = 300, logo, logoSize } = props;
-  const canvas = useRef(null);
+  const dom = useRef(null);
   useEffect(() => {
-    if (canvas.current) {
-      QRCode.toCanvas(canvas.current, url, {
-        margin: 0,
+    if (dom.current) {
+      new window.QRCode(dom.current, {
+        text: url,
         width: size,
+        height: size,
+        colorDark: "#000000",
+        colorLight: "#ffffff",
+        correctLevel: window.QRCode.CorrectLevel.H,
       });
     }
   }, [url, size]);
@@ -25,7 +34,7 @@ const QR: FunctionComponent<QRProps> = props => {
 
   return (
     <div className="qr">
-      <canvas ref={canvas} width={size} height={size} />
+      <div ref={dom} width={size} height={size} />
       {logo && (
         <div
           className="logo-container"

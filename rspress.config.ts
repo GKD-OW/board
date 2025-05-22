@@ -25,6 +25,20 @@ export default defineConfig({
       },
     ],
   },
+  builderConfig: {
+    html: {
+      tags: [
+        {
+          tag: 'script',
+          head: true,
+          append: false,
+          attrs: {
+            src: 'https://g.alicdn.com/code/lib/qrcodejs/1.0.0/qrcode.min.js',
+          },
+        },
+      ]
+    }
+  },
   plugins: [
     pluginClientRedirects({
       redirects: [

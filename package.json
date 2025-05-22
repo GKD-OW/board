@@ -11,7 +11,6 @@
   },
   "dependencies": {
     "@rspress/plugin-client-redirects": "^1.44.0",
-    "qrcode": "^1.5.4",
     "rspress": "^1.40.2"
   },
   "devDependencies": {
