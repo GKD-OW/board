@@ -1,27 +1,29 @@
-# announcement
+# Rspress website
 
-## Getting Started
+## Setup
 
-Install dependencies,
+Install the dependencies:
 
 ```bash
-$ npm i
+npm install
 ```
 
-Start the dev server,
+## Get started
+
+Start the dev server:
 
 ```bash
-$ npm start
+npm run dev
 ```
 
-Build documentation,
+Build the website for production:
 
 ```bash
-$ npm run docs:build
+npm run build
 ```
 
-Build library via `father-build`,
+Preview the production build locally:
 
 ```bash
-$ npm run build
+npm run preview
 ```
