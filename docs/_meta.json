@@ -10,5 +10,9 @@
   {
     "text": "事件公示",
     "link": "/issue"
+  },
+  {
+    "text": "账号找回结果",
+    "link": "/account"
   }
 ]
