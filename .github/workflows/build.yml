@@ -39,3 +39,11 @@ jobs:
     - name: Deploy to GitHub Pages
       id: deployment
       uses: actions/deploy-pages@v4
+    - name: Deploy to EO Pages
+      env:
+        EO_PAGE_NAME: ${{ secrets.EO_PAGE_NAME }}
+        EO_PAGE_TOKEN: ${{ secrets.EO_PAGE_TOKEN }}
+      run: |
+        npm i -g edgeone
+        edgeone pages deploy $GITHUB_WORKSPACE/doc_build -n $EO_PAGE_NAME -t $EO_PAGE_TOKEN
+
