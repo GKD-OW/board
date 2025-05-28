@@ -4,15 +4,12 @@
     "link": "/about"
   },
   {
-    "text": "新功能",
-    "link": "/feature"
+    "text": "公告",
+    "link": "/notice/feature",
+    "activeMatch": "^/notice/"
   },
   {
-    "text": "事件公示",
-    "link": "/issue"
-  },
-  {
-    "text": "账号找回结果",
-    "link": "/account"
+    "text": "常见问题",
+    "link": "/faq"
   }
 ]

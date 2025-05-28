@@ -1,0 +1,18 @@
+[
+  {
+    "label": "新功能",
+    "name": "feature"
+  },
+  {
+    "label": "事件公示",
+    "name": "issue"
+  },
+  {
+    "label": "账号找回结果",
+    "name": "account"
+  },
+  {
+    "label": "转载须知",
+    "name": "license"
+  }
+]
