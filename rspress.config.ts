@@ -46,10 +46,16 @@ export default defineConfig({
         },
       ]
     },
-    output: {
-      externals: {
-        react: 'window.React',
-        'react-dom': 'window.ReactDOM',
+    tools: {
+      
+      bundlerChain(chain, { target }) {
+        if (target === 'web') {
+          // chain.optimization.runtimeChunk(false);
+          chain.externals({
+            react: 'window.React',
+            'react-dom': 'window.ReactDOM',
+          });
+        }
       }
     }
   },
