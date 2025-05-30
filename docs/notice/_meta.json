@@ -14,5 +14,9 @@
   {
     "label": "转载须知",
     "name": "license"
+  },
+  {
+    "label": "历史推荐位作品",
+    "name": "recommend-history"
   }
 ]
