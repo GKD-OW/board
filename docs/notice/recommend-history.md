@@ -14,6 +14,7 @@
 * [花村RPG](https://owmod.net/2309)
 * [🚧百变机关🚧](https://owmod.net/539)
 * [麦克雷跑酷](https://owmod.net/2476)
+* [餐厅经营 - 守望厨房!](https://owmod.net/2240)
 
 ## 2025 5.30-6.6
 
