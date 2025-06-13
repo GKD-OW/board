@@ -2,7 +2,21 @@
 
 您可以在这里找到熔火工坊推荐位作品
 
-## 2025 6.6-至今
+## 2025 6.13-至今
+
+* [「测试靶场“训练伙伴”」](https://owmod.net/2468)
+* [暴打大锤3](https://owmod.net/2464)
+* [哈瓦那ai练枪](https://owmod.net/2245)
+* [丧尸围城](https://owmod.net/1200)
+* [无限武装2](https://owmod.net/2473)
+* [躲避岩浆](https://owmod.net/2300)
+* [全自动狼人杀](https://owmod.net/2446)
+* [黑兔无限火力](https://owmod.net/2485)
+* [🚧百变机关🚧](https://owmod.net/539)
+* [DJ跳跳乐](https://owmod.net/1169)
+* [仿CF生化模式（全英雄）](https://owmod.net/1159)
+
+## 2025 6.6-6.13
 
 * [「测试靶场“训练伙伴”」](https://owmod.net/2468)
 * [哈瓦那ai练枪](https://owmod.net/2245)
