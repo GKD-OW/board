@@ -2,7 +2,23 @@
 
 您可以在这里找到熔火工坊推荐位作品
 
-## 2025 6.13-至今
+## 2025 6.20-至今
+
+推荐文章：[大神](https://ds.163.com/article/68553126c30eaa36275ec73b/) [B站](https://www.bilibili.com/opus/1080502635117674496) [小红书](https://www.xiaohongshu.com/discovery/item/6857cce70000000012017437?xsec_token=ABbg8nLup0fjdp7Xwg9u2t6RmNjrIIQRHxo1mE74r9cDw=)
+
+* [随机大小躲猫猫](https://owmod.net/2302)
+* [生化追击 堡垒救世主版](https://owmod.net/2323)
+* [躲避岩浆全英雄狂野版](https://owmod.net/2074)
+* [守望丧尸塔防：竞技场](https://owmod.net/2541)
+* [奥运会之铁拳排球](https://owmod.net/1737)
+* [♬♩ 守望音游 ♪♬](https://owmod.net/2527)
+* [生化攻防 v10.4 （建墙打僵尸）](https://owmod.net/2545)
+* [奥丽莎标枪乱斗](https://owmod.net/2470)
+* [永夜轮回](https://owmod.net/2522)
+* [JOJO的奇妙4V1冒险](https://owmod.net/1300)
+* [麦克雷跑酷-好莱坞](https://owmod.net/2518)
+
+## 2025 6.13-6.20
 
 * [「测试靶场“训练伙伴”」](https://owmod.net/2468)
 * [暴打大锤3](https://owmod.net/2464)
