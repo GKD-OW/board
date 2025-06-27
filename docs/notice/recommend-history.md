@@ -4,7 +4,7 @@
 
 ## 2025 6.27-至今
 
-推荐文章：[大神](https://ds.163.com/article/685e649e403cbf5b2f6bc16a/)
+推荐文章：[大神](https://ds.163.com/article/685e649e403cbf5b2f6bc16a/) [B站](https://www.bilibili.com/opus/1083152544029474885)
 
 * [守望丧尸塔防](https://owmod.net/2541)
 * [OW自走棋](https://owmod.net/1862)
