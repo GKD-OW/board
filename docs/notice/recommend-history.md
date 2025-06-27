@@ -2,7 +2,21 @@
 
 您可以在这里找到熔火工坊推荐位作品
 
-## 2025 6.20-至今
+## 2025 6.27-至今
+
+推荐文章：待补充
+
+* [守望丧尸塔防](https://owmod.net/2541)
+* [OW自走棋](https://owmod.net/1862)
+* [劲舞团](https://owmod.net/1593)
+* [找蛋躲猫猫](https://owmod.net/1931)
+* [实况足球](https://owmod.net/2561)
+* [11勇士vs史诗魔改巨人BOSS](https://owmod.net/1401)
+* [安娜睡飞铁拳](https://owmod.net/2575)
+* [麦克雷跑酷-暴雪世界](https://owmod.net/2568)
+* [奥丽莎标枪乱斗](https://owmod.net/2470)
+
+## 2025 6.20-6.27
 
 推荐文章：[大神](https://ds.163.com/article/68553126c30eaa36275ec73b/) [B站](https://www.bilibili.com/opus/1080502635117674496) [小红书](https://www.xiaohongshu.com/discovery/item/6857cce70000000012017437?xsec_token=ABbg8nLup0fjdp7Xwg9u2t6RmNjrIIQRHxo1mE74r9cDw=)
 
