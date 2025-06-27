@@ -4,7 +4,7 @@
 
 ## 2025 6.27-至今
 
-推荐文章：待补充
+推荐文章：[大神](https://ds.163.com/article/685e649e403cbf5b2f6bc16a/)
 
 * [守望丧尸塔防](https://owmod.net/2541)
 * [OW自走棋](https://owmod.net/1862)
