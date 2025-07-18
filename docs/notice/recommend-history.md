@@ -2,7 +2,30 @@
 
 您可以在这里找到熔火工坊推荐位作品
 
-## 2025 6.27-至今
+## 2025 7.18-至今
+
+* [糖豆先锋](https://owmod.net/2031)
+* [暴打大锤3](https://owmod.net/2464)
+* [OW自走棋](https://owmod.net/1862)
+* [0CD无脑爽](https://owmod.net/2622)
+* [麦克雷跑酷-伊利奥斯](https://owmod.net/2623)
+* [麦克雷跑酷-中城](https://owmod.net/2626)
+
+## 2025 7.6-7.18
+
+推荐文章：[大神](https://ds.163.com/article/6869f4d936bb412bbaf6793f/) [B站](https://www.bilibili.com/opus/1086445912097554440)
+
+* [糖豆先锋](https://owmod.net/2031)
+* [安娜睡飞铁拳](https://owmod.net/2575)
+* [仓鼠跑酷](https://owmod.net/1715)
+* [OW自走棋](https://owmod.net/1862)
+* [Seita的瞄准训练与热身](https://owmod.net/2310)
+* [仓鼠台球](https://owmod.net/2579)
+* [躲避岩浆全英雄狂野版](https://owmod.net/2074)
+* [麦克雷跑酷-国王大道](https://owmod.net/2598)
+* [劲舞团](https://owmod.net/1593)
+
+## 2025 6.27-7.6
 
 推荐文章：[大神](https://ds.163.com/article/685e649e403cbf5b2f6bc16a/) [B站](https://www.bilibili.com/opus/1083152544029474885)
 
