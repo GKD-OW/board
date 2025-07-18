@@ -4,10 +4,14 @@
 
 ## 2025 7.18-至今
 
+推荐文章：[大神](https://ds.163.com/article/687a1a9f3e82c438ffd86394/)
+
 * [糖豆先锋](https://owmod.net/2031)
 * [暴打大锤3](https://owmod.net/2464)
 * [OW自走棋](https://owmod.net/1862)
 * [0CD无脑爽](https://owmod.net/2622)
+* [多人成行：“喧闹繁华” —— 中城](https://owmod.net/2610)
+* [找东西](https://owmod.net/2605)
 * [麦克雷跑酷-伊利奥斯](https://owmod.net/2623)
 * [麦克雷跑酷-中城](https://owmod.net/2626)
 
