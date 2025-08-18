@@ -17,7 +17,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        node-version: [18.x]
+        node-version: [20.x]
     steps:
     - uses: actions/checkout@v4
     - uses: pnpm/action-setup@v4
@@ -43,7 +43,5 @@ jobs:
       env:
         EO_PAGE_NAME: ${{ secrets.EO_PAGE_NAME }}
         EO_PAGE_TOKEN: ${{ secrets.EO_PAGE_TOKEN }}
-      run: |
-        npm i -g edgeone
-        edgeone pages deploy $GITHUB_WORKSPACE/doc_build -n $EO_PAGE_NAME -t $EO_PAGE_TOKEN
+      run: npx edgeone pages deploy $GITHUB_WORKSPACE/doc_build -n $EO_PAGE_NAME -t $EO_PAGE_TOKEN
 
