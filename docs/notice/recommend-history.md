@@ -2,10 +2,29 @@
 
 您可以在这里找到熔火工坊推荐位作品
 
-## 2025 7.18-至今
+## 2025 8.18-至今
+* [守望塔防PVE](https://owmod.net/2660)
+* [十二号星期四-合作恐怖逃生](https://owmod.net/2633)
+* [随机小游戏合集](https://owmod.net/2669)
+* [麦克雷跑酷-努巴尼](https://owmod.net/2658)
+* [训练靶场ProMax](https://owmod.net/2469)
+* [无漾弹道训练](https://owmod.net/2667)
 
+## 2025 8.2-8.18
+推荐文章：[大神](https://ds.163.com/article/688d82b0139bb019be326c73/)
+* [CF生化模式](https://owmod.net/1159)
+* [永夜蚀心（太空狼人杀）](https://owmod.net/2646)
+* [搜打撤模式](https://owmod.net/2634)
+* [逃离雨姐](https://owmod.net/2649)
+* [西格玛打雪仗](https://owmod.net/2644)
+* [修仙聊天群](https://owmod.net/2648)
+* [麦克雷跑酷-艾兴瓦尔德](https://owmod.net/2639)
+* [训练靶场ProMax](https://owmod.net/2469)
+* [英雄精通：花男](https://owmod.net/2641)
+* [无漾弹道训练](https://owmod.net/2667)
+
+## 2025 7.18-8.2
 推荐文章：[大神](https://ds.163.com/article/687a1a9f3e82c438ffd86394/)
-
 * [糖豆先锋](https://owmod.net/2031)
 * [暴打大锤3](https://owmod.net/2464)
 * [OW自走棋](https://owmod.net/1862)
@@ -16,9 +35,7 @@
 * [麦克雷跑酷-中城](https://owmod.net/2626)
 
 ## 2025 7.6-7.18
-
 推荐文章：[大神](https://ds.163.com/article/6869f4d936bb412bbaf6793f/) [B站](https://www.bilibili.com/opus/1086445912097554440)
-
 * [糖豆先锋](https://owmod.net/2031)
 * [安娜睡飞铁拳](https://owmod.net/2575)
 * [仓鼠跑酷](https://owmod.net/1715)
@@ -30,9 +47,7 @@
 * [劲舞团](https://owmod.net/1593)
 
 ## 2025 6.27-7.6
-
 推荐文章：[大神](https://ds.163.com/article/685e649e403cbf5b2f6bc16a/) [B站](https://www.bilibili.com/opus/1083152544029474885)
-
 * [守望丧尸塔防](https://owmod.net/2541)
 * [OW自走棋](https://owmod.net/1862)
 * [劲舞团](https://owmod.net/1593)
@@ -44,9 +59,7 @@
 * [奥丽莎标枪乱斗](https://owmod.net/2470)
 
 ## 2025 6.20-6.27
-
 推荐文章：[大神](https://ds.163.com/article/68553126c30eaa36275ec73b/) [B站](https://www.bilibili.com/opus/1080502635117674496) [小红书](https://www.xiaohongshu.com/discovery/item/6857cce70000000012017437?xsec_token=ABbg8nLup0fjdp7Xwg9u2t6RmNjrIIQRHxo1mE74r9cDw=)
-
 * [随机大小躲猫猫](https://owmod.net/2302)
 * [生化追击 堡垒救世主版](https://owmod.net/2323)
 * [躲避岩浆全英雄狂野版](https://owmod.net/2074)
@@ -60,7 +73,6 @@
 * [麦克雷跑酷-好莱坞](https://owmod.net/2518)
 
 ## 2025 6.13-6.20
-
 * [「测试靶场“训练伙伴”」](https://owmod.net/2468)
 * [暴打大锤3](https://owmod.net/2464)
 * [哈瓦那ai练枪](https://owmod.net/2245)
@@ -74,7 +86,6 @@
 * [仿CF生化模式（全英雄）](https://owmod.net/1159)
 
 ## 2025 6.6-6.13
-
 * [「测试靶场“训练伙伴”」](https://owmod.net/2468)
 * [哈瓦那ai练枪](https://owmod.net/2245)
 * [无限武装2](https://owmod.net/2473)
@@ -88,7 +99,6 @@
 * [餐厅经营 - 守望厨房!](https://owmod.net/2240)
 
 ## 2025 5.30-6.6
-
 * [PVE拦截僵尸车](https://owmod.net/2250)
 * [哈瓦那ai练枪](https://owmod.net/2245)
 * [漓江塔 1v1 竞技场](https://owmod.net/2301)
@@ -111,7 +121,6 @@
 * [餐厅经营 - 守望厨房!](https://owmod.net/2240)
 
 ## 2025 5.22-5.30
-
 * [PVE拦截僵尸车](https://owmod.net/2250)
 * [哈瓦那ai练枪](https://owmod.net/2245)
 * [漓江塔 1v1 竞技场](https://owmod.net/2301)
@@ -125,3 +134,4 @@
 * [超级无敌变态0CD电影院](https://owmod.net/2248)
 * [密室杀人重制版](https://owmod.net/2235)
 * [找蛋躲猫猫](https://owmod.net/1931)
+
