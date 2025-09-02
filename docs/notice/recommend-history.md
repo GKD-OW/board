@@ -2,7 +2,18 @@
 
 您可以在这里找到熔火工坊推荐位作品
 
-## 2025 8.18-至今
+## 2025 9.2-至今
+* [锁头透视之努力与汗水](https://owmod.net/2671)
+* [雾子滑板竞速赛](https://owmod.net/2678)
+* [雾子花式滑板模拟器](https://owmod.net/2679)
+* [推车躲猫猫](https://owmod.net/2673)
+* [逃离伪人·小镇狼人杀](https://owmod.net/2656)
+* [斗魂竞技场](https://owmod.net/2676)
+* [西格玛打雪仗](https://owmod.net/2644)
+* [找蛋躲猫猫](https://owmod.net/1931)
+* [麦克雷跑酷-埃斯佩兰萨](https://owmod.net/2672)
+
+## 2025 8.18-9.2
 * [守望塔防PVE](https://owmod.net/2660)
 * [十二号星期四-合作恐怖逃生](https://owmod.net/2633)
 * [随机小游戏合集](https://owmod.net/2669)
@@ -134,4 +145,5 @@
 * [超级无敌变态0CD电影院](https://owmod.net/2248)
 * [密室杀人重制版](https://owmod.net/2235)
 * [找蛋躲猫猫](https://owmod.net/1931)
+
 
